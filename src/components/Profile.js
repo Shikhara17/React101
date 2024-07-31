@@ -6,7 +6,7 @@ import './Profile.css';
 function Profile() {
   return (
     <div className='profile-container'>
-      <video src="/videos/video-2.mp4" loop autoPlay muted></video>
+      <video src="/videos/video-7.mp4" loop autoPlay muted></video>
     <h1>Welcome</h1>
     <p>Lorem ipsum odor amet, consectetuer adipiscing elit.</p>
     <div className='hero-btns'>
