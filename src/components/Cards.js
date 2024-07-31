@@ -18,13 +18,13 @@ function Cards() {
                 <ul className='cards__items'>
                     <Card src="images/img-1.jpg" 
                     text='Explore my Projects' 
-                    label='Project' path='/services'/>
+                    label='Project' path='/projects'/>
                     <Card src="images/img-3.jpg" 
-                    text='Lorem Ipsum' 
-                    label='Lorem' path='/services'/>
+                    text='Contact me' 
+                    label='Lorem' path='/contact-me'/>
                     <Card src="images/img-5.jpg" 
-                    text='Lorem Ipsum' 
-                    label='Lorem' path='/services'/>
+                    text='Contact Ipsum' 
+                    label='Lorem' path='/contact-me'/>
                 </ul>
 
             </div>
